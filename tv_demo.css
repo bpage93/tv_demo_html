@@ -1,0 +1,28 @@
+.bodyManage{
+    background-color: #00FFFF;
+    border: double;
+}
+.bodyPreview{
+    background-color: #00ff00;
+    border: double;
+}
+
+.nav {
+    display: flex;
+    flex-direction: column;
+    
+}
+.div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.delete{
+    border-radius: 100%;
+    color: red;
+    font-size: 25px;
+}
+
+.preview{
+    
+}
